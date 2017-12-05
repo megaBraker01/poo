@@ -1,0 +1,17 @@
+commit 184cfef8754ee4e70f73bed161720699339a7afe
+Author: angel <angel_rafael01@hotmail.com>
+Date:   Tue Dec 5 20:21:29 2017 +0100
+
+    agregamos estilos a ul y li para que sean botones
+
+commit 739b36e75d428e487fef06bb42e9b7311aa1f97a
+Author: angel <angel_rafael01@hotmail.com>
+Date:   Tue Dec 5 20:07:23 2017 +0100
+
+    esto es otro cambio en el index
+
+commit 8b7f128d3ac644486a2c1769ec031361b5066d20
+Author: angel <angel_rafael01@hotmail.com>
+Date:   Tue Dec 5 19:27:03 2017 +0100
+
+    nuestro primer commit

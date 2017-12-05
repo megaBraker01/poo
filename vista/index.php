@@ -8,7 +8,7 @@
 <body>
 <div class="cuerpo">
 	<div class="cabecera">
-    	<p>Esta sera la cabecera de la pagina</p>
+    	<h1>Esta sera la cabecera de la pagina</h1>
     </div>
     <div class="botonera">
     	<ul>
