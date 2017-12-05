@@ -8,10 +8,19 @@
 <body>
 <div class="cuerpo">
 	<div class="cabecera">
+    	<p>Esta sera la cabecera de la pagina</p>
     </div>
     <div class="botonera">
+    	<ul>
+        <li>bonon 1</li>
+        <li>bonon 2</li>
+        <li>bonon 3</li>
+        <li>bonon 4</li>
+        </ul>
     </div>
     <div class="contenido">
+    	<p>Aqui ira todo el contenido de nuestra pagina</p>
+        <p>con un monton de parrafos y de contenidos y todo lo demas</p>
     </div>
 </div>
 </body>
